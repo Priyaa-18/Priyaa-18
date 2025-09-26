@@ -1,6 +1,6 @@
 # Hi there, I'm Priyaa! 👋
 
-🎓 **Undergraduate Student at the University of Minnesota**  
+🎓 **Undergraduate Student at the University of Minnesota, Twin Cities**  
 🚀 Aspiring Software Engineer | Future Backend Enthusiast
 
 ---
@@ -8,7 +8,7 @@
 ## 👩‍💻 About Me
 
 - Passionate about building scalable backend systems and cloud-based solutions
-- Currently learning and experimenting with distributed systems and AWS
+- Currently learning and experimenting with distributed systems and Golang
 - I believe in writing clean, efficient, and maintainable code
 - Always eager to collaborate and contribute to exciting open-source projects
 
